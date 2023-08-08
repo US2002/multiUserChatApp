@@ -90,7 +90,7 @@ public class ClientChatScreen extends JFrame {
 		// TODO Auto-generated method stub
 		String message = textField.getText();
 		try {
-			client.sendMessage(UserInfo.USER_NAME+" : "+message);
+			client.sendMessage(UserInfo.USER_NAME+":"+message);
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();

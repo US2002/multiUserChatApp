@@ -19,6 +19,7 @@ public class UserDAO {
 		final String SQL = "select userid from users where userid=? and password=?";
 		try {
 			con  = commonDAO.createConnection();
+			System.out.println("Connection Created");
 			pstmt = con.prepareStatement(SQL);
 			pstmt.setString(1, userDTO.getUserid());
 			String encryptedPwd= Encryption.passwordEncrypt(new String(userDTO.getPassword()));
