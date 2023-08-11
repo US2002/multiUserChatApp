@@ -43,7 +43,7 @@ To install and run the Recipe Generator App on your device, follow these steps:
 - Start chatting with other clients who are online.
 
 ## Contributions
-We welcome contributions from the open-source community to enhance the functionality and features of the Quiz App. If you would like to contribute, please follow these steps:
+We welcome contributions from the open-source community to enhance the functionality and features of the Multi User Chat App. If you would like to contribute, please follow these steps:
 1. Fork this repository.
 2. Create a new branch with a descriptive name (git checkout -b my-new-feature).
 3. Make the desired changes or additions.
@@ -52,7 +52,7 @@ We welcome contributions from the open-source community to enhance the functiona
 6. Create a new Pull Request.
 
 ## Feedback and Support
-We would love to hear your feedback and suggestions for improving the Recipe Generator App. If you encounter any issues or have any questions, please create a new issue in the issue tracker.
+We would love to hear your feedback and suggestions for improving the Multi User Chat App. If you encounter any issues or have any questions, please create a new issue in the issue tracker.
 
 ## License
-The Recipe Generator App is open source and released under the MIT License. Feel free to modify and distribute the app as per the license terms.
+The Multi User Chat App is open source and released under the MIT License. Feel free to modify and distribute the app as per the license terms.
